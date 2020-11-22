@@ -145,17 +145,38 @@ select{
 }
 @media(min-width:320px){
   #survey-form{
-    width: 260px;
+    width: 220px;
   }
 }
-@media (min-width:550px){
+@media (min-width:375px){
   #survey-form{
-    width: 500px;
+    width: 275px;
+  }
+}
+@media (min-width:411px){
+  #survey-form{
+    width: 311px;
+  }
+}
+@media (min-width:540px){
+  #survey-form{
+    width: 440px;
+  }
+}
+@media (min-width:768px){
+  #survey-form{
+    width: 668px;
   }
 }
 @media (min-width:950px){
   #survey-form{
     width: 750px;
+  }
+}
+@media (min-width:1024px){
+  #survey-form{
+    width: 924px;
+   
   }
 }
 
